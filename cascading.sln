@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "cascading", "cascading\cascading.rptproj", "{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.Debug|Default.ActiveCfg = Debug
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.Debug|Default.Build.0 = Debug
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.Debug|Default.Deploy.0 = Debug
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.DebugLocal|Default.Build.0 = DebugLocal
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.Release|Default.ActiveCfg = Release
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.Release|Default.Build.0 = Release
+		{FAABADD8-349F-4E6B-92E2-2B4C1E12B9D4}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
